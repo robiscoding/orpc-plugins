@@ -1,6 +1,6 @@
 {
   "name": "@robiscoding/orpc-worker-pool",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "oRPC plugin for offloading CPU-intensive procedures to a managed Node.js worker thread pool",
   "license": "MIT",
   "type": "module",
